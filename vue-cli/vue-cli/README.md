@@ -14,7 +14,6 @@ npm install -g vue-cli
 ```
 该指令执行完成生成的是一个文件包，其中 vuetest是工程名字，可以自己命名
 
-```
 ## 3、在testvue工程中初始化
 ```
 cnpm install
