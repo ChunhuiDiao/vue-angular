@@ -20,24 +20,24 @@ import share from './components/share.vue';
 import movie from './components/movie.vue';
 import movieDetail from './components/movieDetail.vue';
 
-//引入崔莲的top文件夹 xheader
+//引入A的top文件夹 xheader
 import xheader from './components/top/xheader.vue';
 import xnav from './components/top/xnav.vue';
 
-//引入崔莲的page文件夹下文件
+//引入A的page文件夹下文件
 import gifnav from './components/page/gifnav.vue';
 import giffoot from './components/page/giffoot.vue';
 import gif from './components/gif.vue';
 
-//引入崔莲all 文件夹下文件
+//引入A all 文件夹下文件
 import clnew from './components/all/clnew.vue';
 //import pnav from './components/pnav.vue';
 
-//引入鲍雪的文件
+//引入B的文件
 import photo from './components/photo.vue';
 import photoDetail from './components/photo_detail.vue';
 
-//引入刁春辉登录注册
+//引入B登录注册
 import register from './components/registor.vue';
 import login from './components/login.vue';
 
